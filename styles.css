@@ -1,0 +1,49 @@
+*{
+  font-family:monospace;
+  text-align: center;
+  background-color: #C3F8FF;
+}
+h1{
+  font-size: 4.5rem;
+}
+table, tr, td{
+  margin: 30px auto ;
+  text-align: center;
+
+  border-style:ridge;
+  border-collapse: collapse;
+  border-color: black;
+  width : 500px;
+  height: 80px;
+}
+td:hover{
+  color:cadetblue;
+}
+td{
+font-size: 2.5rem;
+}
+.btn{
+  color:#fff;
+  font-size: 2.5rem;
+  width: 250px;
+  height: 40px;
+  border-radius: 15px;
+}
+.btn-1{
+  color:black;
+  background-color:lawngreen;
+}
+.btn-2{
+  background-color:red;
+}
+.btn-1:hover{
+  background-color:#fff;
+}
+.btn-2:hover{
+  background-color:#fff;
+  color:black;
+}
+#val{
+  font-size: 3rem;
+}
+
